@@ -1,0 +1,6 @@
+{
+  "name": "CadQuery Mobile Studio",
+  "description": "Entorno de desarrollo y visualización 3D interactivo para scripts de Python CadQuery en Android y Web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "CadQuery Mobile Studio",
+  "short_name": "CQ Studio",
+  "description": "Entorno de desarrollo y visor 3D paramétrico para scripts Python CadQuery en Android y Web.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["productivity", "utilities", "developer tools"]
+}
